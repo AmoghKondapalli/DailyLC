@@ -1,2 +1,1 @@
-# DailyLC
-Collection of LeetCode questions to ace the coding interview!
+# Daily LeetCode Questions Repository
